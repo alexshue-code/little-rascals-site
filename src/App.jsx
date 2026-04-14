@@ -1,6 +1,4 @@
-export default function PetHospitalHomepage() {export default function PetHospitalHomepage() {
-  const services = [
-    {
+export default function PetHospitalHomepage() {
       title: 'Rescue, Adoption & Sanctuary',
       text:
         'We are a foster-based rescue and sanctuary dedicated to helping animals heal, stabilize, and find the right forever home.',
@@ -434,4 +432,3 @@ export default function PetHospitalHomepage() {export default function PetHospit
     </div>
   );
 }
-
